@@ -1,5 +1,7 @@
 #panel{
-    width: 411px;
+    margin: -12;
+    padding: -1;
+    width: 451px;
     height: 162px;
     background-color: #131A61;
 }
